@@ -1,7 +1,9 @@
-# interactive-notebooks
-Interactive Jupyter notebooks that run on My Binder for quantum physics lectures.
+# Algorithms and Practice, Sejong University
+# Interactive-notebooks
 
-Launch the interactive environment by clicking on the badge below.
+Interactive Jupyter notebooks that run on My Binder for algorithms and practice (lectures and exercises).
+
+Launch the interactive environment by clicking on the badge below (jupyter notebook).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathanshammah/interactive-notebooks/master)
 
