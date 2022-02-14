@@ -1,0 +1,13 @@
+name: notebooksenv
+channels:
+- conda-forge
+dependencies:
+- python==3.8.3
+- pip==19.*
+- pip:
+  - numpy==1.18.5
+  - scipy==1.5.0
+  - matplotlib==3.2.2
+  - pandas=1.0.5
+  - scikit-learn=0.23.1
+  - imagemagick=7.0.8_49
